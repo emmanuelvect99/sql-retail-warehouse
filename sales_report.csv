@@ -1,0 +1,5 @@
+country,category,product_name,total_units_sold,total_revenue,rank_in_country
+France,Electronics,Laptop Pro 15,2,2400.0,1
+France,Electronics,Wireless Mouse,2,51.0,2
+Germany,Electronics,Mechanical Keyboard,3,255.0,1
+USA,Furniture,Ergonomic Chair,1,250.0,1
